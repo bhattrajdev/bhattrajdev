@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dev Raj Bhatt</h1>
 <h3 align="center">Committing with passion, not just because I have to 💖</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattrajdev&label=Profile%20views&color=0e75b6&style=flat" alt="bhattrajdev" /> </p>
 
 - 🌱 I’m currently learning **MERN**
