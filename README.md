@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **PHP HTML CSS TAILWIND**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
